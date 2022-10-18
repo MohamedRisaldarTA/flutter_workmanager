@@ -20,7 +20,7 @@ dev_dependencies:
   get_it: ^7.2.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+#   flutter_lints: ^2.0.1
 
 flutter:
   plugin:
